@@ -1,5 +1,5 @@
 locals {
-  domain_cdicohorts_one = "cdicohorts.one"
+  domain_cdicohorts_one = "cdicohorts-one.com"
 }
 
 provider "aws" {
